@@ -1,0 +1,8 @@
+.git/
+.github/
+node_modules/
+*.log
+*.pid
+.DS_Store
+.gitcode_session_cookie
+.claude/

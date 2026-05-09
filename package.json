@@ -1,0 +1,28 @@
+{
+  "name": "model-agent-status",
+  "version": "0.1.0",
+  "description": "A compact Claude Code statusline for GitCode model and agent usage.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiashuaiXu/model-agent-status.git"
+  },
+  "bin": {
+    "model-agent-status": "./bin/install.js"
+  },
+  "files": [
+    "bin",
+    "docs",
+    "README.md",
+    "LICENSE",
+    "NOTICE.md"
+  ],
+  "keywords": [
+    "claude",
+    "claude-code",
+    "statusline",
+    "gitcode",
+    "model"
+  ],
+  "license": "MIT",
+  "author": "Jiashuai Xu"
+}
